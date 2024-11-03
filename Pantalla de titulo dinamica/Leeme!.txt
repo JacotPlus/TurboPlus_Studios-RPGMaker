@@ -1,0 +1,5 @@
+Cuando abras el editor de RPG Maker MV tienes que tener "Ozu_File" en ON.
+
+Cuando quieras exportar tu proyecto deberás desactivar "Ozu_File" y activar "Ozu_File_modified" para que este
+funcione debido a que cuando se exporta, los archivos se crean en una carpeta diferente a la que cuando estás
+editando.
